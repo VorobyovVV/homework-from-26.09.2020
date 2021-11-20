@@ -41,6 +41,5 @@ int main()
     shiftArray(M, n, m);
     printArray(M, n);
     delete[] M;
-    return 0;
+    
 }
-
