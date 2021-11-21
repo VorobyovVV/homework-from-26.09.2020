@@ -38,8 +38,8 @@ int main()
     for (int i = 0; i < n; ++i) {
         M[i] = i + 1;
     }
-    shiftArray(M, n, m);
-    printArray(M, n);
- //   delete[] M;
-    return 0;   // вернуть ноль
-}
+  
+  
+    delete[] M;
+    return 0;   
+
