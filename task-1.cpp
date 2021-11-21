@@ -40,6 +40,6 @@ int main()
     }
     shiftArray(M, n, m);
     printArray(M, n);
-    delete[] M;
+ //   delete[] M;
     return 0;   // вернуть ноль
 }
