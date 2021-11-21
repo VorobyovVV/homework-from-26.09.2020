@@ -54,7 +54,7 @@ int main() {
     for (int i = 0; i < n; ++i) {
         A[i] = new int[n];
     }
-    snakeArray(A,n); // змейка
+ //   snakeArray(A,n);// змейка
 }
 
 
